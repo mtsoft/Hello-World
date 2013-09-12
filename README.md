@@ -8,8 +8,10 @@ title
 
 
 ```PHP
-
+<?php
   $this->abc;
-  if (true) {}
-
+  if (true) {
+    explode("|", $abc);
+  }
+?>
 ```
